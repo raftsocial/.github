@@ -4,16 +4,16 @@
     <img src="https://avatars.githubusercontent.com/u/148164627?s=200&v=4" alt="Logo">
   </a>
 
-  <h3 align="center">OtterHalf, Inc.</h3>
+  <h3 align="center">Raft, Inc.</h3>
 
   <p align="center">
-    The most intentional dating platform yet.
+    We forgot how to be neighbors. It's time to change that.
     <br />
-    <a href="https://tryotterhalf.com"><strong>Learn more »</strong></a>
+    <a href="https://raft.social"><strong>Learn more »</strong></a>
     <br />
     <br />
-    <a href="https://www.facebook.com/tryotterhalf">Facebook</a>
+    <a href="https://www.facebook.com/raft.social">Facebook</a>
     ·
-    <a href="https://www.instagram.com/tryotterhalf">Instagram</a>
+    <a href="https://www.instagram.com/raft.social">Instagram</a>
   </p>
 </p>
